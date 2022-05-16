@@ -1,2 +1,2 @@
-﻿My first readme.
-My first edit on git hub
+My first readme.
+
